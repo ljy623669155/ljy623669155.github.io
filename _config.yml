@@ -24,13 +24,13 @@ repository               : "ljy623669155/ljy623669155.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Junyi Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Someone who loves life and enjoys diving deep into things."
+  location         : "China"
+  employer         : "China Mobile"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ljy623669155@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ljy623669155"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
