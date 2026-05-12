@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the University of Electronic Science and Technology of China (UESTC) and a visiting researcher at the Adam Smith Business School, University of Glasgow.
+I am an AI engineer graduated from the University of Electronic Science and Technology of China and currently work at China Mobile. My research focuses on large language models, AI agents, deep learning, and artificial intelligence. During my studies, I primarily worked on quantum machine learning, quantum hidden Markov models, and time-series finance.
 
-My research focuses on LLM-based agent systems for IoT, bringing AI capabilities to billion-scale devices. I also work on domain-specific LLM fine-tuning, with applications in ecology and water management, and explore the economic implications of AI automation.
+I am currently seeking a research assistant position related to large language models or AI agents.

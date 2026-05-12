@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junyi Lu"
 title_separator          : "-"
 name                     : &name "Junyi Lu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Junyi Lu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ljy623669155.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Junyi Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Someone who loves life and enjoys diving deep into things."
+  bio              : "AI engineer at China Mobile | UESTC grad | Research on LLMs, AI agents, and deep learning."
   location         : "China"
   employer         : "China Mobile"
   uri              : # URL
@@ -228,22 +228,22 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
@@ -270,20 +270,20 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: portfolio
 
 
 # Sass/SCSS

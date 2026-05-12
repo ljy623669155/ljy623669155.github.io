@@ -1,152 +1,186 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Junyi Lu",
+    "label": "AI Engineer",
+    "email": "ljy623669155@163.com",
+    "phone": "(+86)18244286576",
+    "website": "https://ljy623669155.github.io",
+    "summary": "I am an AI engineer graduated from the University of Electronic Science and Technology of China and currently work at China Mobile. My research focuses on large language models, AI agents, deep learning, and artificial intelligence. During my studies, I primarily worked on quantum machine learning, quantum hidden Markov models, and time-series finance. I am currently seeking a research assistant position related to large language models or AI agents.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Chengdu",
+      "countryCode": "CN"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "eOovGYsAAAAJ",
+        "url": "https://scholar.google.com/citations?user=eOovGYsAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0002-4153-5218",
+        "url": "https://orcid.org/0000-0002-4153-5218"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ljy623669155",
+        "url": "https://github.com/ljy623669155"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "China Mobile",
+      "position": "AI Engineer",
+      "startDate": "2025",
+      "endDate": "present",
+      "summary": "Developed an AI-agent system from scratch for the AIoT platform, empowering over 1 billion connected devices with scalable AI capabilities.",
+      "highlights": [
+        "Built scalable AI-agent system for IoT platform serving 1B+ connected devices",
+        "Webpage: https://open.iot.10086.cn/console/agent/agentManagement"
+      ]
+    },
+    {
+      "company": "China Mobile",
+      "position": "AI Engineer",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Contributed to the research of domain-specific LLMs, specifically fine-tuning an Ecological Environment LLM and executing on-premise deployment for a Water Resources LLM.",
+      "highlights": [
+        "Fine-tuned Ecological Environment LLM",
+        "Deployed Water Resources LLM on-premise"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Electronic Science and Technology of China",
+      "area": "MSc in Quantum Machine Learning",
+      "startDate": "2020-09",
+      "endDate": "2023-06"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Southwest Petroleum University",
+      "area": "BEng Internet of Things Engineering",
+      "startDate": "2015-09",
+      "endDate": "2019-06"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "awards": [
+    {
+      "title": "First-Class Graduate Academic Scholarship",
+      "date": "2021",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "Outstanding Graduate Student Award",
+      "date": "2022",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "Outstanding Teaching Assistant Award",
+      "date": "2021",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "Alibaba Cloud Certified Professional (ACP) – Large Language Model Specialist",
+      "date": "2025-11",
+      "awarder": "Alibaba Cloud"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "SONG, X.; CHEN, W.; LU, J. Research on Financial Stock Market Prediction Based on the Hidden Quantum Markov Model",
+      "publisher": "Mathematics, 13, 2505 (JCR Q1)",
+      "releaseDate": "2025-08-01",
+      "website": "https://www.mdpi.com/2227-7390/13/15/2505",
+      "summary": "This paper proposes a hidden quantum Markov model for financial stock market prediction."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "LU, J.; HU, Y.; LI, X. et al. A New Stock Forecasting Model by Hidden Quantum Markov Models",
+      "publisher": "ICAIS 2022, pp. 438-447",
+      "releaseDate": "2022-07-01",
+      "website": "https://doi.org/10.1007/978-3-031-06788-4_37",
+      "summary": "A new stock forecasting model based on hidden quantum Markov models presented at ICAIS 2022."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "CHEN, S.; LU, J.; TENG, B. Study on the influence of scale on the phase transition properties of nanoisland",
+      "publisher": "Physica A: Statistical Mechanics and its Applications, 593, 127004 (JCR Q2)",
+      "releaseDate": "2022-05-01",
+      "website": "https://doi.org/10.1016/j.physa.2022.127004",
+      "summary": "Study on how scale influences phase transition properties of nanoislands."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "CHEN, S.; WU, Y.; LU, J.; TENG, B. Reentrant phenomenon in the decorated ising model",
+      "publisher": "Physica Scripta, 98, 125941 (JCR Q2)",
+      "releaseDate": "2023-12-01",
+      "website": "https://doi.org/10.1088/1402-4896/ad1155",
+      "summary": "Investigation of the reentrant phenomenon in the decorated Ising model."
     }
   ],
-  "presentations": [
+  "patents": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Disease Progression Prediction System and Platform Based on Quantum Neural Networks",
+      "number": "CN114496227B",
+      "date": "2023-04-28",
+      "status": "Granted",
+      "summary": "A system and platform for disease progression prediction using quantum neural networks."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Method for Predicting Ligand-Protein Interactions Based on Quantum Computing",
+      "number": "CN114446383B",
+      "date": "2023-04-21",
+      "status": "Granted",
+      "summary": "A method for predicting ligand-protein interactions leveraging quantum computing."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Quantum Open System Simulation Method, Storage Medium and Terminal Based on Different Measurement Approaches",
+      "number": "CN113609704B",
+      "date": "2023-08-01",
+      "status": "Granted",
+      "summary": "A quantum open system simulation method supporting multiple measurement approaches."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Simulation Method for Quantum Conditional Master Equation in Quantum Transport Processes Using Recurrent Neural Networks",
+      "number": "CN112784472B",
+      "date": "2023-03-24",
+      "status": "Granted",
+      "summary": "A simulation method for quantum conditional master equations using recurrent neural networks."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Quantum Machine Learning",
+      "institution": "UESTC",
+      "date": "2021-09-01",
+      "role": "Teaching Assistant",
+      "description": "Graded homework, led seminar discussions, and lectured approximately one-third of the course sessions."
     }
   ],
-  "portfolio": [
+  "skills": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Machine Learning & AI",
+      "keywords": ["Large Language Models", "AI Agents", "Deep Learning", "Quantum Machine Learning"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["Python", "PyTorch", "TensorFlow"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["LLMs", "AI Agents", "Quantum ML", "Time-series Finance"]
     }
   ]
 }
