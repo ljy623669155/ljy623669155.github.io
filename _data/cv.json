@@ -7,7 +7,7 @@
     "website": "https://ljy623669155.github.io",
     "summary": "I am an AI engineer graduated from the University of Electronic Science and Technology of China and currently work at China Mobile. My research focuses on large language models, AI agents, deep learning, and artificial intelligence. During my studies, I primarily worked on quantum machine learning, quantum hidden Markov models, and time-series finance. I am currently seeking a research assistant position related to large language models or AI agents.",
     "location": {
-      "city": "Chengdu",
+      "city": "Chongqing",
       "countryCode": "CN"
     },
     "profiles": [
@@ -70,6 +70,11 @@
     {
       "title": "First-Class Graduate Academic Scholarship",
       "date": "2021",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "First-Class Graduate Academic Scholarship",
+      "date": "2022",
       "awarder": "UESTC"
     },
     {
@@ -167,20 +172,11 @@
       "keywords": ["Python", "PyTorch", "TensorFlow"]
     }
   ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native"
-    },
-    {
-      "language": "English",
-      "fluency": "Professional working proficiency"
-    }
-  ],
+
   "interests": [
     {
-      "name": "Research",
-      "keywords": ["LLMs", "AI Agents", "Quantum ML", "Time-series Finance"]
+      "name": "Sports &amp; Leisure",
+      "keywords": ["Fitness", "Swimming", "Bridge", "Basketball", "Table Tennis"]
     }
   ]
 }
