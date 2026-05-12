@@ -164,12 +164,36 @@
   ],
   "skills": [
     {
-      "name": "Machine Learning & AI",
-      "keywords": ["Large Language Models", "AI Agents", "Deep Learning", "Quantum Machine Learning"]
+      "name": "AI Research",
+      "keywords": [
+        "LLM framework(Qwen, DeepSeek, Jiutian)",
+        "LLM Fine-tuning (LoRA / QLoRA)",
+        "LLaMA-Factory Training Framework",
+        "Hugging Face Transformers",
+        "Sentence-BERT / Text Embedding / SimHash",
+        "AI Agent Systems (Claude Code, Cursor, OpenClaw)",
+        "vLLM / SGLang Inference Engine",
+        "OpenAI-compatible API Development",
+        "Voice AI (FunASR, Seed-ASR)",
+        "Chinese NLP (jieba, etc.)",
+        "Data Processing (MinerU, Selenium)",
+        "Deep Learning (PyTorch, TensorFlow)",
+        "LaTeX / Beamer"
+      ]
     },
     {
-      "name": "Programming",
-      "keywords": ["Python", "PyTorch", "TensorFlow"]
+      "name": "Other",
+      "keywords": [
+        "Quantum Hidden Markov Models (QHMM)",
+        "Quantum Neural Networks",
+        "Open Quantum Systems Simulation",
+        "Quantum Conditional Master Equations",
+        "Decorated Ising Model & Phase Transitions",
+        "Java, Spring Boot, WebSocket, REST API",
+        "Docker, Kubernetes",
+        "Linux, Nginx, Ansible",
+        "Redis, MongoDB, MinIO"
+      ]
     }
   ],
 
