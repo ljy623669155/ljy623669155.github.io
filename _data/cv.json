@@ -66,32 +66,18 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Study on the influence of scale on the phase transition properties of nanoisland",
+      "publisher": "Physica A: Statistical Mechanics and its Applications",
+      "releaseDate": "2022-05-01",
+      "website": "https://doi.org/10.1016/j.physa.2022.127004",
+      "summary": "Chen, S.; Lu, J.; Teng, B. (2022). Physica A, 593, 127004. (JCR Q2)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Reentrant phenomenon in the decorated ising model",
+      "publisher": "Physica Scripta",
+      "releaseDate": "2023-12-01",
+      "website": "https://doi.org/10.1088/1402-4896/ad0933",
+      "summary": "Chen, S.; Wu, Y.; Lu, J.; Teng, B. (2023). Physica Scripta, 98, 125941. (JCR Q2)"
     }
   ],
   "presentations": [
