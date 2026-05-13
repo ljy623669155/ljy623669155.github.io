@@ -9,7 +9,7 @@ redirect_from:
 
 I am an AI engineer working on large language models and AI agents at China Mobile. I received my master's degree from the University of Electronic Science and Technology of China (UESTC), where my research focused on quantum machine learning, hidden quantum Markov models (HQMM), and financial time-series analysis.
 
-My current work focuses on building enterprise-level AI agent systems and applying cutting-edge large language models to industrial systems. I also fine-tune open-source LLMs using the LLaMA-Factory framework and deploy them at scale with vLLM and SGLang. During graduate school, I mainly focused on quantum computing and fundamental physics.
+My current work focuses on building enterprise-level AI agent systems and applying cutting-edge large language models to industrial systems. It also involves constructing an AI MaaS infrastructure for deploying and fine-tuning the latest open-source models. During graduate school, I mainly focused on quantum computing and fundamental physics.
 
 I am actively seeking a full-time research assistant position focused on large language models or AI agents, where I can apply my AI skills to accelerate scientific discovery. My long-term aspiration is to pursue a Ph.D., and ideally this RA role could serve as a pathway toward that goal. Above all, I hope to learn, contribute, and grow as a researcher.
 
