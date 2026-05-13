@@ -1,10 +1,10 @@
 ---
-title: "MFA在相变性质研究中的伪解问题"
+title: "Pseudo-Solution Problem of Mean-Field Approximation in Phase Transition Research (in Chinese)"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-mfa-pseudo-solution
 date: 2021-01-01
-venue: '信息记录材料, 22(8)'
-citation: '陈胜, 卢俊邑. 2021. MFA在相变性质研究中的伪解问题[J]. 信息记录材料, 22(8).'
+venue: 'Journal of Information Recording Materials, 22(8)'
+citation: 'Chen, S., & Lu, J. 2021. Pseudo-solution problem of mean-field approximation in phase transition research. Journal of Information Recording Materials, 22(8). (in Chinese)'
 ---
 
