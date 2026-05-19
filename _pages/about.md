@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI engineer working on large language models and AI agents at China Mobile. I received my master's degree from the University of Electronic Science and Technology of China (UESTC), where my research focused on quantum machine learning, hidden quantum Markov models (HQMM), and financial time-series analysis.
+I am an AI engineer working on large language models and AI agents at China Mobile. I received my master's degree from the University of Electronic Science and Technology of China (UESTC), where my research focused on quantum machine learning, and financial forecasting.
 
 My current work focuses on building enterprise-level AI agent systems and applying cutting-edge large language models to industrial systems. It also involves constructing an AI MaaS infrastructure for deploying and fine-tuning the latest open-source models. During graduate school, I mainly focused on quantum computing and fundamental physics.
 
