@@ -9,6 +9,4 @@ author_profile: true
 
 {% include cv-template.html %}
 
-<div class="cv-download-links" style="margin-top: 2em; text-align: center;">
-  <a href="{{ base_path }}/files/JunyiLu_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
+<!-- PDF download temporarily hidden because the previous PDF lists China Mobile as the current employer. -->

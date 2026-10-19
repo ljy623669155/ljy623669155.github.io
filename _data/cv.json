@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Junyi Lu",
-    "label": "AI Engineer",
+    "label": "Independent Researcher",
     "email": "qq2735861811@gmail.com",
     "phone": "(+86)18244286576",
     "website": "https://ljy623669155.github.io",
-    "summary": "I am an AI engineer at China Mobile and a graduate of UESTC. My earlier work spanned diverse fields, including financial engineering and quantum machine learning, while I have recently expanded into emerging directions such as large language models, AI agents, deep learning, and artificial intelligence. I am currently seeking a research assistant position related to large language models or AI agents.",
+    "summary": "I am an independent researcher focusing on AI safety, large language model security, and side-channel attacks. I recently left my position as an AI engineer at China Mobile Internet of Things Co., Ltd. (China Mobile IoT), and I am not currently affiliated with an institution. I am a graduate of UESTC, with prior research in quantum machine learning and financial forecasting and engineering experience in large language models and AI agents.",
     "location": {
       "city": "Chongqing",
       "countryCode": "CN"
@@ -30,10 +30,18 @@
   },
   "work": [
     {
-      "company": "China Mobile",
+      "company": "Independent",
+      "position": "Independent Researcher",
+      "startDate": "2026",
+      "endDate": "present",
+      "summary": "Research on AI safety, large language model security, and side-channel attacks.",
+      "highlights": []
+    },
+    {
+      "company": "China Mobile Internet of Things Co., Ltd.",
       "position": "AI Engineer",
       "startDate": "2025",
-      "endDate": "present",
+      "endDate": "2026",
       "summary": "Developed an AI-agent system from scratch for the AIoT platform, empowering over 1 billion connected devices with scalable AI capabilities.",
       "highlights": [
         "Built scalable AI-agent system for IoT platform serving 1B+ connected devices",
@@ -41,7 +49,7 @@
       ]
     },
     {
-      "company": "China Mobile",
+      "company": "China Mobile Internet of Things Co., Ltd.",
       "position": "AI Engineer",
       "startDate": "2024",
       "endDate": "2025",
@@ -162,11 +170,16 @@
       "description": "Graded homework, led seminar discussions, and lectured approximately one-third of the course sessions."
     }
   ],
-
   "interests": [
     {
       "name": "Sports &amp; Leisure",
-      "keywords": ["Fitness", "Swimming", "Bridge", "Basketball", "Table Tennis"]
+      "keywords": [
+        "Fitness",
+        "Swimming",
+        "Bridge",
+        "Basketball",
+        "Table Tennis"
+      ]
     }
   ]
 }

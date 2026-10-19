@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI engineer working on large language models and AI agents at China Mobile. I received my master's degree from the University of Electronic Science and Technology of China (UESTC), where my research focused on quantum machine learning, and financial forecasting. My current work focuses on building enterprise-level AI agent systems and applying cutting-edge large language models to industrial systems. It also involves constructing an AI MaaS infrastructure for deploying and fine-tuning the latest open-source models.
+I am an independent researcher focusing on AI safety, large language model security, and side-channel attacks. I recently left my position as an AI engineer at China Mobile Internet of Things Co., Ltd. (China Mobile IoT), and I am not currently affiliated with an institution.
 
-Currently pursuing Ph.D. preparation in large language models, AI agents, or their cross-disciplinary applications. I am actively seeking a full-time Research Assistant role. My solid technical foundation and extensive hands-on experience enable me to quickly adapt to diverse team roles and take on various research tasks. I leverage my expertise in AI and AI agent research to accelerate experimental iteration, model optimization, and project progress.
+I received my master's degree from the University of Electronic Science and Technology of China (UESTC), where my research focused on quantum machine learning and financial forecasting. My previous work at China Mobile IoT involved large language models, domain-specific model fine-tuning and deployment, and AI-agent systems for industrial and IoT applications.
+
+Contact: [qq2735861811@gmail.com](mailto:qq2735861811@gmail.com).
